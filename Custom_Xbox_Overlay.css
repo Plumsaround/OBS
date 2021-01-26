@@ -13,7 +13,7 @@
     display: none;
 }
 .custom .triggers{
-    width: 44px;
+    width: 446px;
     height: 121px;
     position: absolute;
     left: 152px;
@@ -21,7 +21,7 @@
 .custom .trigger{
     width: 88px;
     height: 121px;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/trigger.svgz);
+    background: url(https://imgur.com/OTFCAg0.png);
     opacity: 0;
 }
 .custom .trigger.left{
@@ -30,12 +30,12 @@
 }
 .custom .trigger.right{
     float: right;
-    background-position:0 0;
+    transform: rotateY(180deg);
 }
 .custom .bumper{
     width: 170px;
     height: 61px;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/bumper.svgz);
+    background: url(https://imgur.com/pE5mFEG.png);
     opacity: 0;
 }
 .custom .bumpers{
@@ -89,7 +89,7 @@
     left: 306px;
 }
 .custom .back, .custom .start{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/start-select.svgz);
+    background: url(https://imgur.com/3EXjjqi.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -113,7 +113,7 @@
 }
 .custom .button{
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/abxy.svgz);
+    background: url(https://imgur.com/UGrjqBw.png);
     width: 48px;
     height: 48px;
 }
@@ -175,7 +175,7 @@
     left: 223px;
 }
 .custom .face{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/dpad.svgz);
+    background: url(https://imgur.com/d0yzlZf.png);
     position: absolute;
     opacity: 0;
 }
