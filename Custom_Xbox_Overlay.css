@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom{
-    background: url(https://imgur.com/Izf62SQ.png);
+    background: url(https://i.imgur.com/DuowOmO.png);
     height: 630px;
     width: 750px;
     margin-left: -375px;
@@ -21,7 +21,7 @@
 .custom .trigger{
     width: 88px;
     height: 121px;
-    background: url(https://imgur.com/vZWBmGI.png);
+    background: url(https://i.imgur.com/vZWBmGI.png);
     opacity: 0;
 }
 .custom .trigger.left{
@@ -35,7 +35,7 @@
 .custom .bumper{
     width: 170px;
     height: 61px;
-    background: url(https://imgur.com/pE5mFEG.png);
+    background: url(https://i.imgur.com/pE5mFEG.png);
     opacity: 0;
 }
 .custom .bumpers{
@@ -89,7 +89,7 @@
     left: 306px;
 }
 .custom .back, .custom .start{
-    background: url(https://imgur.com/3EXjjqi.png);
+    background: url(https://i.imgur.com/3EXjjqi.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -113,7 +113,7 @@
 }
 .custom .button{
     position: absolute;
-    background: url(https://imgur.com/UGrjqBw.png);
+    background: url(https://i.imgur.com/UGrjqBw.png);
     width: 48px;
     height: 48px;
 }
@@ -175,7 +175,7 @@
     left: 223px;
 }
 .custom .face{
-    background: url(https://imgur.com/d0yzlZf.png);
+    background: url(https://i.imgur.com/d0yzlZf.png);
     position: absolute;
     opacity: 0;
 }
